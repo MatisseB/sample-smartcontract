@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+}
+
+.mutateFormContainer{
+    max-width: 800px;
+    margin: 25px auto;
+}
+
+.mutateTitle {
+    background: #fff;
+}
+
+.imgCards {
+    margin: 5px;
+}
